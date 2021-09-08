@@ -142,6 +142,10 @@ Cpoy and paste the code below into index.html file.
 Will change the directory back up to Books
 
 cd ..
-Start the server by running this command:
+
+We will start the server by running this command:
 
 node server.js
+
+![image](https://user-images.githubusercontent.com/67065306/132590655-7b377cd8-f0b3-45a2-8980-b4d3635983c6.png)
+
